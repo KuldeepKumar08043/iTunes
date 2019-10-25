@@ -1,0 +1,19 @@
+.search-container{
+    margin: 0 auto;
+    text-align: left;
+}
+ul li{
+    list-style-type: none;
+}
+.d-i-block{
+    display: inline-block;
+}
+.v-align{
+    vertical-align: top;
+}
+@media screen and (max-width: 767px) {
+    .form-group {
+        padding: 0;
+        width: 90%;
+    }
+}

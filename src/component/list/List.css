@@ -1,0 +1,11 @@
+.image-container{
+    margin-top: 10px;
+}
+.table-bordered td{
+    padding-top: 10px;
+    vertical-align: baseline !important;
+}
+.table-bordered thead th {
+    vertical-align: top !important;
+    padding: 10px 12px;
+}
