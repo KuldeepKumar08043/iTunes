@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+
+.heading{
+  background: dodgerblue;
+  color: #fff;
+  padding: 10px 0;
+  margin-bottom: 40px;
+  font-size: 26px;
+}
