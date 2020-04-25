@@ -60,7 +60,7 @@ class Search extends React.Component {
                         </tbody>
                     </table>
                     {
-                        this.state.iTune.length <= 0 ? <p className="text-danger">No record available</p> : ""
+                        this.state.iTune.length <= 0 ? <p className="text-danger">No record available(please search item)</p> : ""
                     }
 
                 </div>
